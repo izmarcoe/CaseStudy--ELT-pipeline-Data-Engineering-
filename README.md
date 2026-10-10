@@ -109,20 +109,20 @@ flowchart TD
 
 ## 6. Data Modeling
 
-The pipeline transforms normalized operational data into a dimensional model designed for analytical workloads.
+The pipeline transforms highly normalized operational data into a dimensional model specifically optimized for fast, analytical workloads.
 
 Key components include:
 
-- **Fact tables** — Store measurable business events, such as sales.
-- **Dimension tables** — Provide descriptive context for analytical reporting.
-- **Star Schema** — Organizes fact and dimension tables to simplify business queries.
-- **SCD Type 2** — Preserves historical changes to dimension records by maintaining historical versions.
+**Fact tables** — The core of the model. They store the quantitative, measurable business events (the "metrics"), such as order quantities, sales amounts, and tax rates.
+**Dimension tables** — The context. They provide the descriptive attributes (the "who, what, where, and when"), such as customer names, product categories, and transaction dates, allowing us to filter and group the fact data.
+**Star Schema** — The architecture. A centralized Fact table directly connected to multiple surrounding Dimension tables. This denormalized structure minimizes complex JOINs, drastically speeding up and simplifying business reporting.
+**Slowly Changing Dimensions (SCD Type 2)** — The historical record. Instead of overwriting data when a business attribute changes (like a product's price or brand), SCD Type 2 preserves the full history by "expiring" the old record and inserting a new active version.
 
 ## 7. Data Quality
 
-Data quality checks are incorporated into the pipeline to help ensure the reliability and consistency of the transformed data.
+Data quality assertions are embedded directly into the pipeline to guarantee the reliability, accuracy, and consistency of the transformed data.
 
-These checks validate the data as it moves through the pipeline and before analytical results are generated.
+These automated checks run after the transformations but before any analytical reports are generated. They validate critical constraints, such as ensuring primary keys are not null, checking that business keys are strictly unique, and guaranteeing that fact records successfully resolve to their dimension foreign keys.
 
 ## 8. Project Structure
 
