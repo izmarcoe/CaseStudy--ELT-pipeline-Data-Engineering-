@@ -1,0 +1,54 @@
+﻿StateProvinceID;StateProvinceCode;StateProvinceName;CountryID;SalesTerritory;LatestRecordedPopulation
+1;AL;Alabama;230;Southeast;5437278
+2;AK;Alaska;230;Far West;735132
+3;AZ;Arizona;230;Southwest;6891688
+4;AR;Arkansas;230;Southeast;3077747
+5;CA;California;230;Far West;41460453
+6;CO;Colorado;230;Rocky Mountain;5698265
+7;CT;Connecticut;230;New England;3739923
+8;DE;Delaware;230;Mideast;1001289
+9;DC;District of Columbia;230;Mideast;685248
+10;FL;Florida;230;Southeast;21148372
+11;GA;Georgia;230;Southeast;9992167
+12;HI;Hawaii;230;Far West;1404054
+13;ID;Idaho;230;Rocky Mountain;1612136
+14;IL;Illinois;230;Great Lakes;13397420
+15;IN;Indiana;230;Great Lakes;6570902
+16;IA;Iowa;230;Plains;3214032
+17;KS;Kansas;230;Plains;2893957
+18;KY;Kentucky;230;Southeast;4571106
+19;LA;Louisiana;230;Southeast;4810488
+20;ME;Maine;230;New England;1381434
+21;MD;Maryland;230;Mideast;5928814
+22;MA;Massachusetts[E];230;New England;6960536
+23;MI;Michigan;230;Great Lakes;9895622
+24;MN;Minnesota;230;Plains;5637195
+25;MS;Mississippi;230;Southeast;2991207
+26;MO;Missouri;230;Plains;6262867
+27;MT;Montana;230;Rocky Mountain;1187597
+28;NE;Nebraska;230;Plains;1943256
+29;NV;Nevada;230;Far West;2790136
+30;NH;New Hampshire;230;New England;1376397
+31;NJ;New Jersey;230;Mideast;8899339
+32;NM;New Mexico;230;Southwest;2345662
+33;NY;New York;230;Mideast;20437172
+34;NC;North Carolina;230;Southeast;10241982
+35;ND;North Dakota;230;Plains;723393
+36;OH;Ohio;230;Great Lakes;12514985
+37;OK;Oklahoma;230;Southwest;3850568
+38;OR;Oregon;230;Far West;4250757
+39;PA;Pennsylvania;230;Mideast;13284753
+40;PR;Puerto Rico (US Territory);230;External;3613149
+41;RI;Rhode Island;230;New England;1051511
+42;SC;South Carolina;230;Southeast;4774839
+43;SD;South Dakota;230;Plains;844877
+44;TN;Tennessee;230;Southeast;6495978
+45;TX;Texas;230;Southwest;27506120
+46;UT;Utah;230;Rocky Mountain;3016906
+47;VT;Vermont;230;New England;677762
+48;VI;Virgin Islands (US Territory);230;External;104737
+49;VA;Virginia;230;Southeast;8260405
+50;WA;Washington;230;Far West;7540272
+51;WV;West Virginia;230;Southeast;2085839
+52;WI;Wisconsin;230;Great Lakes;6211317
+53;WY;Wyoming;230;Rocky Mountain;605964

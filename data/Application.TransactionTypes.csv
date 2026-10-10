@@ -1,0 +1,14 @@
+﻿TransactionTypeID;TransactionTypeName
+1;Customer Invoice
+2;Customer Credit Note
+3;Customer Payment Received
+4;Customer Refund
+5;Supplier Invoice
+6;Supplier Credit Note
+7;Supplier Payment Issued
+8;Supplier Refund
+9;Stock Transfer
+10;Stock Issue
+11;Stock Receipt
+12;Stock Adjustment at Stocktake
+13;Customer Contra

@@ -1,0 +1,14 @@
+﻿SupplierID;SupplierName;SupplierCategoryID;PrimaryContactPersonID;AlternateContactPersonID;DeliveryMethodID;DeliveryCityID;PostalCityID;SupplierReference;PaymentDays;PhoneNumber;WebsiteURL;DeliveryAddressLine;DeliveryLocationLat;DeliveryLocationLong
+1;A Datum Corporation;2;21;22;7;38171;38171;AA20384;14;(847) 555-0100;http://www.adatum.com;183838 Southwest Boulevard;39,9508733;-86,261937
+2;Contoso, Ltd.;2;23;24;9;13870;13870;B2084020;7;(360) 555-0100;http://www.contoso.com;2934 Night Road;48,0981503;-122,5729351
+3;Consolidated Messenger;6;25;26;NULL;30378;30378;209340283;30;(415) 555-0100;http://www.consolidatedmessenger.com;894 Market Day Street;37,7749295;-122,4194155
+4;Fabrikam, Inc.;4;27;28;7;18557;18557;293092;30;(203) 555-0104;http://www.fabrikam.com;393999 Woodberg Road;38,1514705;-83,5043529
+5;Graphic Design Institute;2;29;30;10;18634;18634;8803922;14;(406) 555-0105;http://www.graphicdesigninstitute.com;45th Street;36,608128;-94,4477164
+6;Humongous Insurance;9;31;32;NULL;18656;18656;82420938;14;(423) 555-0105;http://www.humongousinsurance.com;9893 Mount Norris Road;36,1206306;-84,6538308
+7;Litware, Inc.;5;33;34;2;22602;22602;BC0280982;30;(209) 555-0108;http://www.litwareinc.com;19 Le Church Street;38,3004709;-120,7063219
+8;Lucerne Publishing;2;35;36;10;17161;17161;JQ082304802;30;(423) 555-0103;http://www.lucernepublishing.com;949482 Miller Boulevard;36,2942722;-82,4734787
+9;Nod Publishers;2;37;38;10;10346;10346;GL08029802;7;(252) 555-0100;http://www.nodpublishers.com;389 King Street;36,2946008;-76,2510461
+10;Northwind Electric Cars;3;39;40;8;7899;7899;ML0300202;30;(201) 555-0105;http://www.northwindelectriccars.com;440 New Road;41,1242627;-74,8398902
+11;Trey Research;8;41;42;NULL;17277;17277;82304822;7;(605) 555-0103;http://www.treyresearch.net;9401 Polar Avenue;43,833882;-101,5098658
+12;The Phone Company;2;43;44;7;17346;17346;237408032;30;(218) 555-0105;http://www.thephone-company.com;339 Toorak Road;48,5774764;-96,5205968
+13;Woodgrove Bank;7;45;46;NULL;30378;30378;28034202;7;(415) 555-0103;http://www.woodgrovebank.com;8488 Vienna Boulevard;37,7749295;-122,4194155

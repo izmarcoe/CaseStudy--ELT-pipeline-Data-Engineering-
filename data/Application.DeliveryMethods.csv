@@ -1,0 +1,11 @@
+﻿DeliveryMethodID;DeliveryMethodName
+1;Post
+2;Courier
+3;Delivery Van
+4;Customer Collect
+5;Chilled Van
+6;Customer Courier to Collect
+7;Road Freight
+8;Air Freight
+9;Refrigerated Road Freight
+10;Refrigerated Air Freight

@@ -1,0 +1,191 @@
+﻿CountryID;CountryName;FormalName;LatestRecordedPopulation;Continent;Region;Subregion
+1;Afghanistan;Islamic State of Afghanistan;28400000;Asia;Asia;Southern Asia
+3;Albania;Republic of Albania;3785031;Europe;Europe;Southern Europe
+4;Algeria;People's Democratic Republic of Algeria;34178188;Africa;Africa;Northern Africa
+6;Andorra;Principality of Andorra;87243;Europe;Europe;Southern Europe
+7;Angola;People's Republic of Angola;12799293;Africa;Africa;Middle Africa
+10;Antigua and Barb.;Antigua and Barbuda;85632;North America;Americas;Caribbean
+11;Argentina;Argentine Republic;42550127;South America;Americas;South America
+12;Armenia;Republic of Armenia;2967004;Asia;Asia;Western Asia
+15;Australia;Commonwealth of Australia;22997671;Oceania;Oceania;Australia and New Zealand
+16;Austria;Republic of Austria;8210281;Europe;Europe;Western Europe
+17;Azerbaijan;Republic of Azerbaijan;8568218;Asia;Asia;Western Asia
+18;Bahamas;Commonwealth of the Bahamas;309156;North America;Americas;Caribbean
+19;Bahrain;Kingdom of Bahrain;727785;Asia;Asia;Western Asia
+20;Bangladesh;People's Republic of Bangladesh;156050883;Asia;Asia;Southern Asia
+21;Barbados;Barbados;284589;North America;Americas;Caribbean
+22;Belarus;Republic of Belarus;9648533;Europe;Europe;Eastern Europe
+23;Belgium;Kingdom of Belgium;10830909;Europe;Europe;Western Europe
+24;Belize;Belize;307899;North America;Americas;Central America
+25;Benin;Republic of Benin;8791832;Africa;Africa;Western Africa
+27;Bhutan;Kingdom of Bhutan;691141;Asia;Asia;Southern Asia
+28;Bolivia;Plurinational State of Bolivia;9775246;South America;Americas;South America
+29;Bosnia and Herz.;Bosnia and Herzegovina;4797950;Europe;Europe;Southern Europe
+30;Botswana;Republic of Botswana;2070511;Africa;Africa;Southern Africa
+32;Brazil;Federative Republic of Brazil;198739269;South America;Americas;South America
+34;Brunei;Negara Brunei Darussalam;388190;Asia;Asia;South-Eastern Asia
+35;Bulgaria;Republic of Bulgaria;7204687;Europe;Europe;Eastern Europe
+36;Burkina Faso;Burkina Faso;15746232;Africa;Africa;Western Africa
+37;Burundi;Republic of Burundi;8988091;Africa;Africa;Eastern Africa
+38;Cambodia;Kingdom of Cambodia;14494293;Asia;Asia;South-Eastern Asia
+39;Cameroon;Republic of Cameroon;18879301;Africa;Africa;Middle Africa
+40;Canada;Canada;34826696;North America;Americas;Northern America
+43;Central African Rep.;Central African Republic;4511488;Africa;Africa;Middle Africa
+44;Chad;Republic of Chad;10742376;Africa;Africa;Middle Africa
+45;Chile;Republic of Chile;16601707;South America;Americas;South America
+46;China;People's Republic of China;1392157488;Asia;Asia;Eastern Asia
+47;Colombia;Republic of Colombia;45644023;South America;Americas;South America
+48;Comoros;Union of the Comoros;752438;Africa;Africa;Eastern Africa
+49;Congo;Republic of Congo;4012809;Africa;Africa;Middle Africa
+51;Costa Rica;Republic of Costa Rica;4424032;North America;Americas;Central America
+52;Côte d'Ivoire;Republic of Ivory Coast;21441750;Africa;Africa;Western Africa
+53;Croatia;Republic of Croatia;4489409;Europe;Europe;Southern Europe
+54;Cuba;Republic of Cuba;11451652;North America;Americas;Caribbean
+56;Cyprus;Republic of Cyprus;531640;Asia;Asia;Western Asia
+57;Czech Rep.;Czech Republic;10620380;Europe;Europe;Eastern Europe
+58;Dem. Rep. Congo;Democratic Republic of the Congo;68692542;Africa;Africa;Middle Africa
+59;Dem. Rep. Korea;Democratic People's Republic of Korea;22665345;Asia;Asia;Eastern Asia
+60;Denmark;Kingdom of Denmark;5500510;Europe;Europe;Northern Europe
+61;Djibouti;Republic of Djibouti;516055;Africa;Africa;Eastern Africa
+62;Dominica;Commonwealth of Dominica;72660;North America;Americas;Caribbean
+63;Dominican Rep.;Dominican Republic;9650054;North America;Americas;Caribbean
+64;Ecuador;Republic of Ecuador;14573101;South America;Americas;South America
+65;Egypt;Arab Republic of Egypt;83082869;Africa;Africa;Northern Africa
+66;El Salvador;Republic of El Salvador;7185218;North America;Americas;Central America
+67;Eq. Guinea;Republic of Equatorial Guinea;676730;Africa;Africa;Middle Africa
+68;Eritrea;State of Eritrea;5647168;Africa;Africa;Eastern Africa
+69;Estonia;Republic of Estonia;1299371;Europe;Europe;Northern Europe
+70;Ethiopia;Federal Democratic Republic of Ethiopia;85237338;Africa;Africa;Eastern Africa
+73;Fiji;Republic of Fiji;982508;Oceania;Oceania;Melanesia
+74;Finland;Republic of Finland;5460286;Europe;Europe;Northern Europe
+77;France;French Republic;64057792;Europe;Europe;Western Europe
+78;Gabon;Gabonese Republic;1514993;Africa;Africa;Middle Africa
+79;Gambia;Republic of the Gambia;1782893;Africa;Africa;Western Africa
+80;Georgia;Georgia;4615807;Asia;Asia;Western Asia
+81;Germany;Federal Republic of Germany;82329758;Europe;Europe;Western Europe
+82;Ghana;Republic of Ghana;23832495;Africa;Africa;Western Africa
+83;Greece;Hellenic Republic;10737428;Europe;Europe;Southern Europe
+85;Grenada;Grenada;90739;North America;Americas;Caribbean
+87;Guatemala;Republic of Guatemala;13276517;North America;Americas;Central America
+89;Guinea;Republic of Guinea;10057975;Africa;Africa;Western Africa
+90;Guinea-Bissau;Republic of Guinea-Bissau;1533964;Africa;Africa;Western Africa
+91;Guyana;Co-operative Republic of Guyana;772298;South America;Americas;South America
+92;Haiti;Republic of Haiti;9396957;North America;Americas;Caribbean
+94;Honduras;Republic of Honduras;8104568;North America;Americas;Central America
+96;Hungary;Republic of Hungary;9905596;Europe;Europe;Eastern Europe
+97;Iceland;Republic of Iceland;306694;Europe;Europe;Northern Europe
+98;India;Republic of India;1166079220;Asia;Asia;Southern Asia
+100;Indonesia;Republic of Indonesia;240271522;Asia;Asia;South-Eastern Asia
+101;Iran;Islamic Republic of Iran;66429284;Asia;Asia;Southern Asia
+102;Iraq;Republic of Iraq;31129225;Asia;Asia;Western Asia
+103;Ireland;Ireland;4203200;Europe;Europe;Northern Europe
+105;Israel;State of Israel;7233701;Asia;Asia;Western Asia
+106;Italy;Italian Republic;60451260;Europe;Europe;Southern Europe
+107;Jamaica;Jamaica;2825928;North America;Americas;Caribbean
+108;Japan;Japan;127078679;Asia;Asia;Eastern Asia
+110;Jordan;Hashemite Kingdom of Jordan;6342948;Asia;Asia;Western Asia
+111;Kazakhstan;Republic of Kazakhstan;15399437;Asia;Asia;Central Asia
+112;Kenya;Republic of Kenya;40562882;Africa;Africa;Eastern Africa
+113;Kiribati;Republic of Kiribati;112850;Oceania;Oceania;Micronesia
+114;Korea;Republic of Korea;48508972;Asia;Asia;Eastern Asia
+116;Kuwait;State of Kuwait;2691158;Asia;Asia;Western Asia
+117;Kyrgyzstan;Kyrgyz Republic;5431747;Asia;Asia;Central Asia
+118;Lao PDR;Lao People's Democratic Republic;7108339;Asia;Asia;South-Eastern Asia
+119;Latvia;Republic of Latvia;2231503;Europe;Europe;Northern Europe
+120;Lebanon;Lebanese Republic;4177778;Asia;Asia;Western Asia
+121;Lesotho;Kingdom of Lesotho;2130819;Africa;Africa;Southern Africa
+122;Liberia;Republic of Liberia;3441790;Africa;Africa;Western Africa
+123;Libya;Libya;6310434;Africa;Africa;Northern Africa
+124;Liechtenstein;Principality of Liechtenstein;34761;Europe;Europe;Western Europe
+125;Lithuania;Republic of Lithuania;3697386;Europe;Europe;Northern Europe
+126;Luxembourg;Grand Duchy of Luxembourg;491775;Europe;Europe;Western Europe
+128;Macedonia;Former Yugoslav Republic of Macedonia;2149386;Europe;Europe;Southern Europe
+129;Madagascar;Republic of Madagascar;20653556;Africa;Africa;Eastern Africa
+130;Malawi;Republic of Malawi;14268711;Africa;Africa;Eastern Africa
+131;Malaysia;Malaysia;25715819;Asia;Asia;South-Eastern Asia
+132;Maldives;Republic of Maldives;396334;Seven seas (open ocean);Asia;Southern Asia
+133;Mali;Republic of Mali;12666987;Africa;Africa;Western Africa
+134;Malta;Republic of Malta;421371;Europe;Europe;Southern Europe
+135;Marshall Is.;Republic of the Marshall Islands;64522;Oceania;Oceania;Micronesia
+136;Mauritania;Islamic Republic of Mauritania;3129486;Africa;Africa;Western Africa
+137;Mauritius;Republic of Mauritius;1284264;Seven seas (open ocean);Africa;Eastern Africa
+138;Mexico;United Mexican States;111211789;North America;Americas;Central America
+139;Micronesia;Federated States of Micronesia;107434;Oceania;Oceania;Micronesia
+140;Moldova;Republic of Moldova;4320748;Europe;Europe;Eastern Europe
+141;Monaco;Principality of Monaco;32965;Europe;Europe;Western Europe
+142;Mongolia;Mongolia;3041142;Asia;Asia;Eastern Asia
+143;Montenegro;Montenegro;672180;Europe;Europe;Southern Europe
+145;Morocco;Kingdom of Morocco;34859364;Africa;Africa;Northern Africa
+146;Mozambique;Republic of Mozambique;21669278;Africa;Africa;Eastern Africa
+147;Myanmar;Republic of the Union of Myanmar;48137741;Asia;Asia;South-Eastern Asia
+150;Namibia;Republic of Namibia;2108665;Africa;Africa;Southern Africa
+151;Nauru;Republic of Nauru;14019;Oceania;Oceania;Micronesia
+152;Nepal;Nepal;29705912;Asia;Asia;Southern Asia
+153;Netherlands;Kingdom of the Netherlands;16715999;Europe;Europe;Western Europe
+155;New Zealand;New Zealand;4381954;Oceania;Oceania;Australia and New Zealand
+156;Nicaragua;Republic of Nicaragua;5891199;North America;Americas;Central America
+157;Niger;Republic of Niger;15918502;Africa;Africa;Western Africa
+158;Nigeria;Federal Republic of Nigeria;149229090;Africa;Africa;Western Africa
+161;Norway;Kingdom of Norway;4676305;Europe;Europe;Northern Europe
+162;Oman;Sultanate of Oman;3418085;Asia;Asia;Western Asia
+163;Pakistan;Islamic Republic of Pakistan;176242949;Asia;Asia;Southern Asia
+164;Palau;Republic of Palau;20796;Oceania;Oceania;Micronesia
+166;Panama;Republic of Panama;3360474;North America;Americas;Central America
+167;Papua New Guinea;Independent State of Papua New Guinea;6057263;Oceania;Oceania;Melanesia
+168;Paraguay;Republic of Paraguay;6995655;South America;Americas;South America
+169;Peru;Republic of Peru;29546963;South America;Americas;South America
+170;Philippines;Republic of the Philippines;97976603;Asia;Asia;South-Eastern Asia
+172;Poland;Republic of Poland;40022235;Europe;Europe;Eastern Europe
+173;Portugal;Portuguese Republic;10707924;Europe;Europe;Southern Europe
+175;Qatar;State of Qatar;833285;Asia;Asia;Western Asia
+176;Romania;Romania;22215421;Europe;Europe;Eastern Europe
+177;Russia;Russian Federation;140041247;Europe;Europe;Eastern Europe
+178;Rwanda;Republic of Rwanda;10473282;Africa;Africa;Eastern Africa
+182;Saint Lucia;Saint Lucia;160267;North America;Americas;Caribbean
+183;Samoa;Independent State of Samoa;228797;Oceania;Oceania;Polynesia
+184;San Marino;Republic of San Marino;30324;Europe;Europe;Southern Europe
+185;São Tomé and Principe;Democratic Republic of São Tomé and Principe;212679;Africa;Africa;Middle Africa
+186;Saudi Arabia;Kingdom of Saudi Arabia;28686633;Asia;Asia;Western Asia
+187;Senegal;Republic of Senegal;13711597;Africa;Africa;Western Africa
+188;Serbia;Republic of Serbia;7379339;Europe;Europe;Southern Europe
+189;Seychelles;Republic of Seychelles;87476;Seven seas (open ocean);Africa;Eastern Africa
+191;Sierra Leone;Republic of Sierra Leone;6440053;Africa;Africa;Western Africa
+192;Singapore;Republic of Singapore;4657542;Asia;Asia;South-Eastern Asia
+194;Slovakia;Slovak Republic;5681567;Europe;Europe;Eastern Europe
+195;Slovenia;Republic of Slovenia;2005692;Europe;Europe;Southern Europe
+196;Solomon Is.;Solomon Is.;595613;Oceania;Oceania;Melanesia
+197;Somalia;Federal Republic of Somalia;9832017;Africa;Africa;Eastern Africa
+199;South Africa;Republic of South Africa;49052489;Africa;Africa;Southern Africa
+200;Spain;Kingdom of Spain;40525002;Europe;Europe;Southern Europe
+201;Sri Lanka;Democratic Socialist Republic of Sri Lanka;21324791;Asia;Asia;Southern Asia
+202;St. Kitts and Nevis;Federation of Saint Kitts and Nevis;40131;North America;Americas;Caribbean
+204;St. Vin. and Gren.;Saint Vincent and the Grenadines;108756;North America;Americas;Caribbean
+207;Sudan;Republic of the Sudan;25946220;Africa;Africa;Northern Africa
+208;Suriname;Republic of Suriname;481267;South America;Americas;South America
+209;Swaziland;Kingdom of Swaziland;1168869;Africa;Africa;Southern Africa
+210;Sweden;Kingdom of Sweden;9059651;Europe;Europe;Northern Europe
+211;Switzerland;Swiss Confederation;7604467;Europe;Europe;Western Europe
+212;Syria;Syrian Arab Republic;20178485;Asia;Asia;Western Asia
+214;Tajikistan;Republic of Tajikistan;7349145;Asia;Asia;Central Asia
+215;Tanzania;United Republic of Tanzania;41048532;Africa;Africa;Eastern Africa
+216;Thailand;Kingdom of Thailand;65905410;Asia;Asia;South-Eastern Asia
+217;Timor-Leste;Democratic Republic of Timor-Leste;1131612;Asia;Asia;South-Eastern Asia
+218;Togo;Togolese Republic;6019877;Africa;Africa;Western Africa
+219;Tonga;Kingdom of Tonga;125733;Oceania;Oceania;Polynesia
+220;Trinidad and Tobago;Republic of Trinidad and Tobago;1310000;North America;Americas;Caribbean
+221;Tunisia;Republic of Tunisia;10486339;Africa;Africa;Northern Africa
+222;Türkiye;Republic of Türkiye;76805524;Asia;Asia;Western Asia
+223;Turkmenistan;Turkmenistan;4884887;Asia;Asia;Central Asia
+226;Uganda;Republic of Uganda;32369558;Africa;Africa;Eastern Africa
+227;Ukraine;Ukraine;45700395;Europe;Europe;Eastern Europe
+228;United Arab Emirates;United Arab Emirates;4798491;Asia;Asia;Western Asia
+229;United Kingdom;United Kingdom of Great Britain and Northern Ireland;62262000;Europe;Europe;Northern Europe
+230;United States;United States of America;313973000;North America;Americas;Northern America
+231;Uruguay;Oriental Republic of Uruguay;3494382;South America;Americas;South America
+232;Uzbekistan;Republic of Uzbekistan;27606007;Asia;Asia;Central Asia
+233;Vanuatu;Republic of Vanuatu;218519;Oceania;Oceania;Melanesia
+235;Venezuela;Bolivarian Republic of Venezuela;26814843;South America;Americas;South America
+236;Vietnam;Socialist Republic of Vietnam;86967524;Asia;Asia;South-Eastern Asia
+239;Yemen;Republic of Yemen;23822783;Asia;Asia;Western Asia
+240;Zambia;Republic of Zambia;11862740;Africa;Africa;Eastern Africa
+241;Zimbabwe;Republic of Zimbabwe;12619600;Africa;Africa;Eastern Africa
