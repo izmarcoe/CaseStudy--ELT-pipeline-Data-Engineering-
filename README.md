@@ -113,10 +113,10 @@ The pipeline transforms highly normalized operational data into a dimensional mo
 
 Key components include:
 
-**Fact tables** — The core of the model. They store the quantitative, measurable business events (the "metrics"), such as order quantities, sales amounts, and tax rates.
-**Dimension tables** — The context. They provide the descriptive attributes (the "who, what, where, and when"), such as customer names, product categories, and transaction dates, allowing us to filter and group the fact data.
-**Star Schema** — The architecture. A centralized Fact table directly connected to multiple surrounding Dimension tables. This denormalized structure minimizes complex JOINs, drastically speeding up and simplifying business reporting.
-**Slowly Changing Dimensions (SCD Type 2)** — The historical record. Instead of overwriting data when a business attribute changes (like a product's price or brand), SCD Type 2 preserves the full history by "expiring" the old record and inserting a new active version.
+- **Fact tables** — The core of the model. They store the quantitative, measurable business events (the "metrics"), such as order quantities, sales amounts, and tax rates.
+- **Dimension tables** — The context. They provide the descriptive attributes (the "who, what, where, and when"), such as customer names, product categories, and transaction dates, allowing us to filter and group the fact data.
+- **Star Schema** — The architecture. A centralized Fact table directly connected to multiple surrounding Dimension tables. This denormalized structure minimizes complex JOINs, drastically speeding up and simplifying business reporting.
+- **Slowly Changing Dimensions (SCD Type 2)** — The historical record. Instead of overwriting data when a business attribute changes (like a product's price or brand), SCD Type 2 preserves the full history by "expiring" the old record and inserting a new active version.
 
 ## 7. Data Quality
 
